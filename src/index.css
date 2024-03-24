@@ -80,7 +80,7 @@ div.how-to-buy {
     position: absolute;
     display: flex;
     flex-direction: column;
-    bottom: 24px;
+    bottom: 96px;
     left: 24px;
     gap: 24px;
 }
@@ -96,6 +96,7 @@ div.how-to-buy-text {
 
 div.disclaimer {
     position: absolute;
+    max-width: 600px;
     margin-left: auto;
     margin-right: auto;
     left: 0;

@@ -47,7 +47,10 @@ export const App: FC = () => {
                     </div>
                 </div>
 
-                <div className='disclaimer'>Disclaimer</div>
+                <div className='disclaimer'>
+                    Disclaimer Disclaimer Disclaimer Disclaimer Disclaimer Disclaimer Disclaimer
+                    Disclaimer Disclaimer Disclaimer Disclaimer Disclaimer Disclaimer Disclaimer
+                </div>
             </div>
         </>
     );
